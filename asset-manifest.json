@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/git@github.com:904580/to-do-list-demo.git/static/css/main.f871d3c0.chunk.css",
-    "main.js": "/git@github.com:904580/to-do-list-demo.git/static/js/main.a3456c07.chunk.js",
-    "main.js.map": "/git@github.com:904580/to-do-list-demo.git/static/js/main.a3456c07.chunk.js.map",
-    "runtime-main.js": "/git@github.com:904580/to-do-list-demo.git/static/js/runtime-main.70102bf0.js",
-    "runtime-main.js.map": "/git@github.com:904580/to-do-list-demo.git/static/js/runtime-main.70102bf0.js.map",
-    "static/js/2.b1af2610.chunk.js": "/git@github.com:904580/to-do-list-demo.git/static/js/2.b1af2610.chunk.js",
-    "static/js/2.b1af2610.chunk.js.map": "/git@github.com:904580/to-do-list-demo.git/static/js/2.b1af2610.chunk.js.map",
-    "static/js/3.e8b3db62.chunk.js": "/git@github.com:904580/to-do-list-demo.git/static/js/3.e8b3db62.chunk.js",
-    "static/js/3.e8b3db62.chunk.js.map": "/git@github.com:904580/to-do-list-demo.git/static/js/3.e8b3db62.chunk.js.map",
-    "index.html": "/git@github.com:904580/to-do-list-demo.git/index.html",
-    "static/css/main.f871d3c0.chunk.css.map": "/git@github.com:904580/to-do-list-demo.git/static/css/main.f871d3c0.chunk.css.map",
-    "static/js/2.b1af2610.chunk.js.LICENSE.txt": "/git@github.com:904580/to-do-list-demo.git/static/js/2.b1af2610.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/git@github.com:904580/to-do-list-demo.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/904580/my-to-do-list.git/static/css/main.f871d3c0.chunk.css",
+    "main.js": "/904580/my-to-do-list.git/static/js/main.a3456c07.chunk.js",
+    "main.js.map": "/904580/my-to-do-list.git/static/js/main.a3456c07.chunk.js.map",
+    "runtime-main.js": "/904580/my-to-do-list.git/static/js/runtime-main.a30f8e20.js",
+    "runtime-main.js.map": "/904580/my-to-do-list.git/static/js/runtime-main.a30f8e20.js.map",
+    "static/js/2.b1af2610.chunk.js": "/904580/my-to-do-list.git/static/js/2.b1af2610.chunk.js",
+    "static/js/2.b1af2610.chunk.js.map": "/904580/my-to-do-list.git/static/js/2.b1af2610.chunk.js.map",
+    "static/js/3.e8b3db62.chunk.js": "/904580/my-to-do-list.git/static/js/3.e8b3db62.chunk.js",
+    "static/js/3.e8b3db62.chunk.js.map": "/904580/my-to-do-list.git/static/js/3.e8b3db62.chunk.js.map",
+    "index.html": "/904580/my-to-do-list.git/index.html",
+    "static/css/main.f871d3c0.chunk.css.map": "/904580/my-to-do-list.git/static/css/main.f871d3c0.chunk.css.map",
+    "static/js/2.b1af2610.chunk.js.LICENSE.txt": "/904580/my-to-do-list.git/static/js/2.b1af2610.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/904580/my-to-do-list.git/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70102bf0.js",
+    "static/js/runtime-main.a30f8e20.js",
     "static/js/2.b1af2610.chunk.js",
     "static/css/main.f871d3c0.chunk.css",
     "static/js/main.a3456c07.chunk.js"
